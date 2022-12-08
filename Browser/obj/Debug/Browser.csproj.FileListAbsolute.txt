@@ -1,0 +1,11 @@
+Z:\Browser\Browser\Browser\bin\Debug\Browser.exe.config
+Z:\Browser\Browser\Browser\bin\Debug\Browser.exe
+Z:\Browser\Browser\Browser\bin\Debug\Browser.pdb
+Z:\Browser\Browser\Browser\obj\Debug\Browser.csproj.AssemblyReference.cache
+Z:\Browser\Browser\Browser\obj\Debug\Browser.csproj.SuggestedBindingRedirects.cache
+Z:\Browser\Browser\Browser\obj\Debug\Browser.Form1.resources
+Z:\Browser\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+Z:\Browser\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.cache
+Z:\Browser\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+Z:\Browser\Browser\Browser\obj\Debug\Browser.exe
+Z:\Browser\Browser\Browser\obj\Debug\Browser.pdb
